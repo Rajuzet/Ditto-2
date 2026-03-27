@@ -1,0 +1,19 @@
+# Python and Machine Learning Project Patterns
+
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+
+# Environment variables
+.env
+
+# Models and data
+models/
+data/
+
+# IDE configurations
+.vscode/
+.idea/
